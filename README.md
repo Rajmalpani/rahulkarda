@@ -51,126 +51,6 @@ website -->
 <br>
 
 # Projects ⚙️
-<!-- <h1 align="center">Projects</h1> -->
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
-        <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rajmalpani/NFT-Portal" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Wave Portal</h3>
-        <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
-        </a>
-        <br />
-        <p align="center">
-   <br>
-  <a href="https://github.com/rajmalpani/Wave-Portal" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio App</h3>
-      <br />
-        <a target="_blank" href="https://rajmalpani.netlify.app">
-          <img src="images/portfolio.jpg" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rajmalpani/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://rajmalpani.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">NASA Astronomy Picture of the Day</h3>
-        <br />
-        <a target="_blank" href="https://github.com/rajmalpani/NASA-APOD">
-          <img src="images/apodbyrahul.jpg" width="100%" alt="NASA Astronomy Picture of the Day"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rajmalpani/NASA-APOD" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://apodbyrahul.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
-    </td>
-  </tr>
-  
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Web Postman</h3>
-      <br />
-        <a target="_blank" href="https://webpostman.netlify.app">
-          <img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rajmalpani/Web-Postman" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://webpostman.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - A Web interface to easily create GET and POST requests to test and document APIs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">IP Address Tracker</h3>
-        <br />
-        <a target="_blank" href="https://github.com/rajmalpani/IP-Address-Tracker">
-          <img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rajmalpani/IP-Address-Tracker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://trackmyip.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - Tracks your IP Address and generates the live location on map.</p>
-    </td>
-  </tr>
-</table>
 
 
 # Technologies & Tools 🔧
@@ -202,22 +82,22 @@ website -->
 </a>
 
 <a href="https://github.com/rajmalpani/rajmalpani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmalpani&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Rahul%20Karda%27s%20Github%20Stats" alt="Rahul's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajmalpani&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Raj%20Malpani%27s%20Github%20Stats" alt="Raj's GitHub Stats" />
 </a>
 <br><br>
 
 <a href="https://github.com/rajmalpani/rajmalpani">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajmalpani&theme=radical&hide_border=true)](https://github.com/rajmalpani" alt="Rahul's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajmalpani&theme=radical&hide_border=true)](https://github.com/rajmalpani" alt="Raj's GitHub Stats Graph"/>
 </a>
 <br><br>
 
 <a href="https://github.com/rajmalpani/rajmalpani">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmalpani&theme=dark" alt="Rahul's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmalpani&theme=dark" alt="Raj's GitHub Streak Stats"/>
 </a>
 <br><br>
 
 <a href="https://github.com/rajmalpani/rajmalpani">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rajmalpani&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Rahul's GitHub Contributions Graph"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rajmalpani&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Raj's GitHub Contributions Graph"/>
 </a>
 <br><br>
 
@@ -296,14 +176,14 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/rajmalpani2002
+[1]: https://twitter.com/rxj._11
 [2]: https://github.com/rajmalpani
-[3]: https://www.linkedin.com/in/rahul-karda-314768179/
+[3]: https://www.linkedin.com/in/raj-malpani-a59bbb225/
 
 
 <!-- default README.md -->
 <!--
-- 👋 Hi, I’m Rahul Karda
+- 👋 Hi, I’m Raj Malpani
 - 👀 I’m interested in Full Stack Web Development and other skills
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on different web dev projects
